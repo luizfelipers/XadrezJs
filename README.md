@@ -4,7 +4,7 @@ ReactJs single page webapp that renders a Chess game on screen using Chessboardj
 
 Page style to be updated.
 
-This project was built after following a tutorial about the Chess with Javascript, and it simply is an application of libraries with pre-built methods that control the game flow. The motivation was watching to "The Queen's Gambit"'s Netflix show.
+This project was built after following a tutorial about the Chess with Javascript, and it simply is an application of libraries with pre-built methods that control the game flow. The motivation was watching to "The Queen's Gambit"'s Netflix show and to explore Javascript's vast world of libraries.
 
 ## Desktop Demo
 ![](https://user-images.githubusercontent.com/26651389/104391318-68c43100-551e-11eb-91c5-004e98080e3d.gif)
